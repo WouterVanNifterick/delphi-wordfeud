@@ -1,0 +1,1 @@
+Wordfeud library and sample clients in Delphi
